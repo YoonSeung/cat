@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+test
+=======
+testtestasdvlsajfido;jaisoec
+test
+test
+test
+test
+<<<<<<< HEAD
+>>>>>>> d573806... fix test.txt file
+=======
+수정수정수정
+>>>>>>> 61d63c0... modify
